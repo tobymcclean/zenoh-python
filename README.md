@@ -35,12 +35,12 @@ You can also install the [zenoh](http://zenoh.io)'s python API from PyPi by  sim
 To run the bundled examples without installing any additional software you can the **zenoh** demo instance 
 available at **demo.zenoh.io**. To do so, simply run as follows:
 
-    $ cd zenoh-python/example
+    $ cd zenoh-python/examples
     $ python3 sub.py -z demo.zenoh.io
 
 From another terminal:
 
-    $ cd zenoh-python/example
+    $ cd zenoh-python/examples
     $ python3 sub.py -z demo.zenoh.io
 
 
